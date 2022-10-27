@@ -1,0 +1,196 @@
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Debug\DAL.dll.config
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Debug\DAL.dll
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Debug\DAL.pdb
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Debug\EntityFramework.dll
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Debug\EntityFramework.xml
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Debug\DAL.dll
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\bin\Debug\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\bin\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\bin\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\bin\Debug\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\bin\Debug\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\obj\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DAL\obj\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Debug\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Debug\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Debug\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Debug\DAL.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\bin\Debug\DAL.dll.config
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\bin\Debug\DAL.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\bin\Debug\DAL.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\bin\Debug\EntityFramework.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\bin\Debug\EntityFramework.xml
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\obj\Debug\DAL.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\obj\Debug\DAL.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\obj\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\obj\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\bin\Debug\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\bin\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\bin\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\bin\Debug\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\bin\Debug\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TTTN\DuAn\QLNS1\DAL\bin\Debug\DAL.dll.config
+D:\TTTN\DuAn\QLNS1\DAL\bin\Debug\DAL.dll
+D:\TTTN\DuAn\QLNS1\DAL\bin\Debug\DAL.pdb
+D:\TTTN\DuAn\QLNS1\DAL\bin\Debug\DTO.dll
+D:\TTTN\DuAn\QLNS1\DAL\bin\Debug\EntityFramework.dll
+D:\TTTN\DuAn\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\TTTN\DuAn\QLNS1\DAL\bin\Debug\DTO.pdb
+D:\TTTN\DuAn\QLNS1\DAL\bin\Debug\EntityFramework.xml
+D:\TTTN\DuAn\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\TTTN\DuAn\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\TTTN\DuAn\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TTTN\DuAn\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TTTN\DuAn\QLNS1\DAL\obj\Debug\DAL.dll
+D:\TTTN\DuAn\QLNS1\DAL\obj\Debug\DAL.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DAL.dll.config
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DAL.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DAL.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DTO.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DTO.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.pdb
+D:\TTTN\QLNS1\DAL\bin\Debug\DAL.dll.config
+D:\TTTN\QLNS1\DAL\bin\Debug\DAL.dll
+D:\TTTN\QLNS1\DAL\bin\Debug\DAL.pdb
+D:\TTTN\QLNS1\DAL\bin\Debug\DTO.dll
+D:\TTTN\QLNS1\DAL\bin\Debug\EntityFramework.dll
+D:\TTTN\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\TTTN\QLNS1\DAL\bin\Debug\DTO.pdb
+D:\TTTN\QLNS1\DAL\bin\Debug\EntityFramework.xml
+D:\TTTN\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\TTTN\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\TTTN\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TTTN\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TTTN\QLNS1\DAL\obj\Debug\DAL.dll
+D:\TTTN\QLNS1\DAL\obj\Debug\DAL.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\bin\Debug\DAL.dll.config
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\bin\Debug\DAL.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\bin\Debug\DAL.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\bin\Debug\DTO.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\bin\Debug\DTO.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\obj\Debug\DAL.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DAL\obj\Debug\DAL.pdb
+C:\Users\AnhTony\Desktop\QLNS1\DAL\bin\Debug\DAL.dll.config
+C:\Users\AnhTony\Desktop\QLNS1\DAL\bin\Debug\DAL.dll
+C:\Users\AnhTony\Desktop\QLNS1\DAL\bin\Debug\DAL.pdb
+C:\Users\AnhTony\Desktop\QLNS1\DAL\bin\Debug\DTO.dll
+C:\Users\AnhTony\Desktop\QLNS1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\AnhTony\Desktop\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AnhTony\Desktop\QLNS1\DAL\bin\Debug\DTO.pdb
+C:\Users\AnhTony\Desktop\QLNS1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\AnhTony\Desktop\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AnhTony\Desktop\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\AnhTony\Desktop\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AnhTony\Desktop\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\AnhTony\Desktop\QLNS1\DAL\obj\Debug\DAL.dll
+C:\Users\AnhTony\Desktop\QLNS1\DAL\obj\Debug\DAL.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DAL.dll.config
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DAL.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DAL.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DTO.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\DTO.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\DAL\obj\Debug\DAL.pdb
+D:\thuc tap\QLNS1\DAL\bin\Debug\DAL.dll.config
+D:\thuc tap\QLNS1\DAL\bin\Debug\DAL.dll
+D:\thuc tap\QLNS1\DAL\bin\Debug\DAL.pdb
+D:\thuc tap\QLNS1\DAL\bin\Debug\DTO.dll
+D:\thuc tap\QLNS1\DAL\bin\Debug\EntityFramework.dll
+D:\thuc tap\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\thuc tap\QLNS1\DAL\bin\Debug\DTO.pdb
+D:\thuc tap\QLNS1\DAL\bin\Debug\EntityFramework.xml
+D:\thuc tap\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\thuc tap\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\thuc tap\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\thuc tap\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\thuc tap\QLNS1\DAL\obj\Debug\DAL.dll
+D:\thuc tap\QLNS1\DAL\obj\Debug\DAL.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\bin\Debug\DAL.dll.config
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\bin\Debug\DAL.dll
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\bin\Debug\DAL.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\bin\Debug\EntityFramework.dll
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\bin\Debug\EntityFramework.xml
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\obj\Debug\DAL.dll
+D:\Baitap\Dotnet\New folder\QLNS1\DAL\obj\Debug\DAL.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\bin\Debug\DAL.dll.config
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\bin\Debug\DAL.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\bin\Debug\DAL.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\bin\Debug\DTO.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\bin\Debug\DTO.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\obj\Debug\DAL.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\DAL\obj\Debug\DAL.pdb
